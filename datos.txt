@@ -1,0 +1,14 @@
+aldo
+20
+aldo
+20
+Nombre: aldo
+Edad: 20
+Nombre: aldo
+Edad: 20
+Nombre: ismael
+Edad: 11
+Nombre: aldo
+Edad: 20
+Nombre: oyuki
+Edad: 20

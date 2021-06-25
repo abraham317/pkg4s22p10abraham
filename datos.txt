@@ -12,3 +12,7 @@ Nombre: aldo
 Edad: 20
 Nombre: oyuki
 Edad: 20
+Nombre: abraham
+Edad: 
+Nombre: abraham
+Edad: 12

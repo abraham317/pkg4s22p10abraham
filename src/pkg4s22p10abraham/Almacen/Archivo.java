@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p10vba.Almacen;
+package pkg4s22p10abraham.Almacen;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,11 +12,11 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-import pkg4s22p10vba.Informacion.Datos;
+import pkg4s22p10abraham.Informacion.Datos;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class Archivo {
     

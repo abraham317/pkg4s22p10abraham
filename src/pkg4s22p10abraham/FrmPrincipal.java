@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p10vba;
+package pkg4s22p10abraham;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -12,12 +12,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import pkg4s22p10vba.Almacen.Archivo;
-import pkg4s22p10vba.Informacion.Datos;
+import pkg4s22p10abraham.Almacen.Archivo;
+import pkg4s22p10abraham.Informacion.Datos;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p10vba.Informacion;
+package pkg4s22p10abraham.Informacion;
 
 /**
  *
- * @author Daliux
+ * 
  */
 public class Datos {
     String nombre;
